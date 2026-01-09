@@ -1,13 +1,5 @@
 {
   "status": "ACTIVE",
   "expiry": "2026-12-31",
-  "token": "3&4%8XKLU7NSN5"
+  "token": "3&4%8XKLU7NSN6"
 }
-
- // "token": "3&4%8XKLU7NSN5"
-// What you now control
-// You change this	App behavior
-// status: DISABLED	App stops everywhere
-// Change expiry	Extends / blocks all users
-// Change token	Forces all old builds to stop
-// Offline?	Works for 7 days
